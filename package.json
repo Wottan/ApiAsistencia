@@ -18,7 +18,7 @@
       "mysql": "^2.14.1",
       "reflect-metadata": "^0.1.13",
       "routing-controllers": "^0.8.1-alpha.2",
-      "typeorm": "0.2.19"
+      "typeorm": "0.2.25"
    },
    "scripts": {
       "start": "ts-node src/index.ts ",
